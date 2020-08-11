@@ -17,3 +17,4 @@ Write a program that use both recursive and non-recursive functions to perform t
  In other words ,either way we eliminate half the list from further
  consideration
 - In this search ,elements in the list need to be ordered.
+- This type of search takes less time to execute
