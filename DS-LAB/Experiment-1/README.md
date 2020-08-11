@@ -3,7 +3,17 @@ Write a program that use both recursive and non-recursive functions to perform t
 1) Linear Search
 2) Binary Search
 ### Description:
-1) Linear Search : It is also known as sequential search .we start searching for the target from the
+1) Linear Search : 
+- It is also known as sequential search .we start searching for the target from the
  beginning of the list, and we continue until  we find the target or
  until we are sure that it is not in the list.
+- In this search, elements in the list need not be ordered.
  
+2) Binary Search :
+- It starts by testing the data in the element at the middle of the list.
+ This determines if the target is in first half or second half of the list.
+ If it is in first half , we do not need to check the second half.
+ If it is in second half , we do not need to check the first half.
+ In other words ,either way we eliminate half the list from further
+ consideration
+- In this search ,elements in the list need to be ordered.
