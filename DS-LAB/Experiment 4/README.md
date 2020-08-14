@@ -9,6 +9,10 @@ In this search ,elements in the list need to be ordered.
 This type of search takes less time to execute
 
 ### Step by step Procedure:
+- We have the array { 11,7,9,16,21,4,15,98,67,31}
+- In Binary Search we need to sort the array 
+- After sorting we have the array { 4,7,9,11,15,16,21,31,67,98}
+- 
 
 ### Output Obtained:
 - Output 1 Key value 16: 
