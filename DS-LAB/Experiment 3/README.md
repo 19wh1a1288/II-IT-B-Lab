@@ -1,5 +1,5 @@
 ### Aim of the experiment:
-Write a program using non-recursive functions to perform the following searching operations for a Key value in a given list of integers:
+Write a program using Recursive functions to perform the following searching operations for a Key value in a given list of integers:
 1) Binary Search
 ### Description:
  Binary Search :
