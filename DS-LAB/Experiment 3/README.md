@@ -15,4 +15,14 @@ Write a program using non-recursive functions to perform the following searching
 - 
 
 ### Output obtained:
- output
+- Output 1 Key : 16
+
+![output](RecBS1.png)
+
+- Output 2 Key : 7
+
+ ![output](RecBS2.png)
+ 
+ - Output 3 Key : 67
+ 
+ ![output](RecBS3.png)
