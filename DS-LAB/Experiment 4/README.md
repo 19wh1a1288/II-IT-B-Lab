@@ -12,7 +12,7 @@ This type of search takes less time to execute
 - We have the array { 11,7,9,16,21,4,15,98,67,31}
 - In Binary Search we need to sort the array 
 - After sorting we have the array { 4,7,9,11,15,16,21,31,67,98}
-- We need to find the mid value of the array which is the sum of initial and last index divided by 2
+- We need to find the mid value of the array which is the value at sum of initial and last index divided by 2
 - After finding the mid value we need to check if the mid value and the key value are same.
 - Case 1:- If Key = Mid
            we return mid value
