@@ -10,7 +10,7 @@ Linear Search :
 - We have the array elements 
 {11,7,9,16,21,4,15,98,67,31}
 - For the output 1 the key element we need to search is 15
--In the iterative process we check if the element and the key value are same 
+- In the iterative process we check if the element and the key value are same 
 - In Iteration 1
      a[0] = 11
      key not equal to 11,so the case fails
