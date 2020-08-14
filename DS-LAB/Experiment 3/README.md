@@ -21,7 +21,7 @@ Write a program using Recursive functions to perform the following searching ope
 - If the key value is less than mid value search the upper half of the array,if the key value is greater than mid value search the lower half of the array by recursively calling the function until the key value = mid value.
 - If the key value is not  found it returns Element not found to the output.
 - In output 1 the key value is 16
-- We declare a Function RecursiveLinearSearch
+- We declare a Function RecursiveBinarySearch
 - The mid value is 15
 - The key value > mid value hence we search the upper half of the array by recursively calling the function
 - We start search from 16
