@@ -9,13 +9,16 @@ Write a program using non-recursive functions to perform the following searching
 - In this search, elements in the list need not be ordered.
 
 ### Step by Step procedure:
-- We have declared a function LinearSearch which takes in 3 input parameters 
-- Initialize a for loop and check if the element and the key value are same ,if the value of the element and the key value are same the for loop returns the index of the element else it returns -1.This is done in the LinearSearch function.
-- In the main function we read the size of the array and then the elements in the array by initializing a for loop.
-- Next we read the key value.
-- In the main function we call the LinearSearch function and check where the value is found and print the value found with the index.
-- In case we do not find the value we print element not found to the output.
-
+- We have the array elements {11,7,9,16,21,4,15,98,67,31}
+- For the output 1 the key element we need to search is 15
+- In the iterative process we check if the element and the key value are same
+- In Iteration 1 a[0] = 11 key not equal to 11,so the case fails
+- In Iteration 2 a[1] = 7 key not equal to 7 so case fails
+- In Iteration 3 a[2] = 9 key not equal to 9 so case fails
+- Similarly iterations continue until the element and key value are same
+- In Iteration 7 a[8] = 15 key equals to 15 so case passed
+- In the function the iteration takes place and the element with index is printed to the output.
+- If all the iteration cases fail then it returns Element not found to the output.
 # Output:
 - Output 1 Key Value:15
 ![output1](NonRecLS1.png)
