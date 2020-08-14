@@ -23,7 +23,7 @@ Write a program using Recursive functions to perform the following searching ope
 - In output 1 the key value is 16
 - We declare a Function RecursiveLinearSearch
 - The mid value is 15
-- The key value > mid value hence we search the upper half of the array by recursivey calling the function
+- The key value > mid value hence we search the upper half of the array by recursively calling the function
 - We start search from 16
 - Key value = Mid Value
 - Returns Element found with index
