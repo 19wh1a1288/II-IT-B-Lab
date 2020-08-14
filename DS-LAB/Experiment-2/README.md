@@ -17,8 +17,11 @@ Linear Search :
 - In Iteration 2
     a[1] = 7
     key not equal to 7 so case fails
+- In Iteration 3 
+    a[2] = 9
+    key not equal to 9 so case fails
 - Similarly iterations continue until the element and key value are same 
--In Iteration 7
+- In Iteration 7
     a[8] = 15
     key equals to 15 so case passed
 - In the function the iteration takes place and the element with index is printed to the output.
