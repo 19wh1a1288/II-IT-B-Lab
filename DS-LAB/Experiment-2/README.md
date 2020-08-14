@@ -7,5 +7,12 @@ Linear Search :
 - In this search, elements in the list need not be ordered.
 ### Step by step procedure:
 - Firstle we declare a function RecLinearSearch which takes 4 parameters.
+### Output obtained:
+- Output 1 Key Value : 99
+ 
+![output](RecLS1.png)
 
+- Output 2 Key Value : 15
+
+![output](RecLS2.png)
 
