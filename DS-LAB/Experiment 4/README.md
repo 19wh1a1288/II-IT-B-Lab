@@ -21,13 +21,13 @@ This type of search takes less time to execute
 - Case 3:- If Key > mid
            Our new initial value = mid + 1
 - We repeat our process until we find our key element or until our search space is exhausted
--OUTPUT 1 Key value : 16
+- OUTPUT 1 Key value : 16
 - The mid value here is 15
 - The Key value 16 is greater than mid value 15 so the new initial value is 16(index 4 + 1 = 5)
 - So we start our search from 16 
 - Key Value = Mid Value
 - Hence we return element found with the index 
--OUTPUT 2 Key value : 7
+- OUTPUT 2 Key value : 7
 - The mid value is 15 
 - As the key value is less than mid value(7<15) our new last value is 11
 - So we start our search from 4 to 11
