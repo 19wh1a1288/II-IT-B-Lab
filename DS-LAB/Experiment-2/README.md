@@ -12,6 +12,8 @@ Linear Search :
 - We initialize a for loop and check if the element is equal to the key value by recursively calling the function 
 - When the key = Element 
   it returns Element found with index , If not found it prints Element not found .
+-	For output 1 key element is 99 hence in the function we check if key value = element.
+-	As we have no element 99 in the array it returns Element not found.
 
 
 ### Output obtained:
