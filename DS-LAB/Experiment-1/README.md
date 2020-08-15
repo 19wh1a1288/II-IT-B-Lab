@@ -19,6 +19,7 @@ Write a program using non-recursive functions to perform the following searching
 - In Iteration 7 a[8] = 15 key equals to 15 so case passed
 - In the function the iteration takes place and the element with index is printed to the output.
 - If all the iteration cases fail then it returns Element not found to the output.
+-	Similarly in output 2 the key element is 99 , we check for the key element in the array. As the element is not present in the array it returns element not found to the output. 
 # Output:
 - Output 1 Key Value:15
 ![output1](NonRecLS1.png)
