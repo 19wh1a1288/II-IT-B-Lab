@@ -38,7 +38,7 @@ swaps them.
 - Now the second pass starts and compares the elements and swaps if it is neccesary.
 - So now by the end of the second pass last second highest element 29 will be in its position.
 - Then the next pass starts and continues until the array is sorted.
-- At last after the third pass we have the sorted array
+- At last in the eighth pass we have the sorted array
 - The sorted array is {4,5,6,9,11,18,19,22,29,30}
 - OUTPUT3:
 - We take a sorted array of 5 elements.
