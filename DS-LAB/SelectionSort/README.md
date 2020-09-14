@@ -16,5 +16,5 @@ Write a program that implements selection sorting method to sort a given list of
 - Repeat the process until we get a sorted array.
 - In Output 1 , we take an array of 5 elements which is unsorted then we search the minimum element in the array 
 ## Output
-OUTPUT 1
-![
+-OUTPUT 1
+![output1](output1.png)
