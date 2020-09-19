@@ -13,7 +13,7 @@ heapsort, or merge sort.
 - It then moves ahead and compares the next two elements.
 - It swaps the elements if they are not sorted and compares with all elements in the sorted sub-list.
 - Then it shifts all the elements in the sorted sub-list that is greater than the value to be sorted.
-− Repeated until list is sorted
+− Repeats the process until list is sorted
 ### OUTPUT 1:
 - We take an array with 5 elements {1,19,2,35,10}
 - Now we compare the first two elements 1 and 19. As they are already in ascending order the first element i.e 1 is inserted into the sorted sublist.
