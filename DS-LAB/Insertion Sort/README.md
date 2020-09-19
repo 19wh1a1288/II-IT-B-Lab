@@ -31,3 +31,14 @@ heapsort, or merge sort.
 - We compare the first two elements and. As they are sorted 1 is in the sorted sublist. Similarly we compare the next elements.
 - As the elements are in sorted order,They do not require any swapping.
 - After all the iterations we have the same sorted array.
+
+## OUTPUT OBTAINED:
+
+### OUTPUT 1
+![output1](IS1.PNG)
+### OUTPUT 2
+![output2](IS2.PNG)
+### OUTPUT 3
+![output3](IS3.PNG)
+
+
